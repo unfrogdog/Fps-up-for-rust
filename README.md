@@ -1,6 +1,6 @@
 download the fps up archive and unzip it.
 
-unpack to the root of the game itself.
+run the file called fps up.
 
 enjoy!!
 
